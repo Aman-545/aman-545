@@ -9,9 +9,13 @@ Email Me 👉 ✉️ **asthanaaman45@gmail.com** For Collaboration/Project or An
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- 
+
+<img width="200" height="200" alt="coding" aign="right"  src="https://github.com/user-attachments/assets/265c7700-39e4-4af2-99a3-6e4acae96573" />
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aman-545&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
