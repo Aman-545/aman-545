@@ -11,8 +11,8 @@ Email Me 👉 ✉️ **asthanaaman45@gmail.com** For Collaboration/Project or An
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+<img width="300" height="300" alt="coding" src="https://github.com/user-attachments/assets/848f6fb0-de64-4062-a201-bcea2830f167" />
 
-<img width="200" height="200" alt="coding" aign="right"  src="https://github.com/user-attachments/assets/265c7700-39e4-4af2-99a3-6e4acae96573" />
 
 
 
